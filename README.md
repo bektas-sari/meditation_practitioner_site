@@ -74,4 +74,4 @@ Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
 Academia: https://independent.academia.edu/bektassari <br>
 
 
-Serene Pathways offers a static, responsive multi-page site built with HTML, CSS and JavaScript. Featuring smooth animations, mobile-first design, AI-generated copy, and free-licensed Freepik images, this professional template supports Home, About, Trainings, and Contact pages.
+
