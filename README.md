@@ -23,7 +23,7 @@ Open the `index.html` file in any modern browser to view the site locally.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/meditation-practitioner-site.git
+   git clone https://github.com/bektas-sari/meditation_practitioner_site.git
    ```
 2. Navigate into the project directory:
 
