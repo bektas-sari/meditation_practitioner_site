@@ -28,7 +28,7 @@ Open the `index.html` file in any modern browser to view the site locally.
 2. Navigate into the project directory:
 
    ```bash
-   cd meditation-practitioner-site
+   cd meditation_practitioner_site
    ```
 
 ## Usage
@@ -56,10 +56,6 @@ meditation-practitioner-site/
 * **CSS3** (Flexbox, Grid, Animations)
 * **JavaScript (ES6+)**
 * **Liberation Serif** font via Google Fonts
-
-## Assets
-
-All images are sourced from Freepik under a free license. References are noted in HTML comments (e.g., `<!-- Freepik Image: image-name.jpg, free license -->`).
 
 ## Contributing
 
