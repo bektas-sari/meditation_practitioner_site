@@ -1,21 +1,9 @@
-# Serene Pathways Meditation & Breath Therapy
+# Meditation & Breath Therapy (Web Site)
 
 ## Description
 
-Professional static website for Serene Pathways, a meditation and breath therapy practitioner. This project delivers a clean, responsive, and animated multi-page site built with pure HTML, CSS, and JavaScript, incorporating AI-generated copy and free-licensed images from Freepik.
-
-## Table of Contents
-
-* [Features](#features)
-* [Demo](#demo)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Project Structure](#project-structure)
-* [Technologies](#technologies)
-* [Assets](#assets)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
+Professional static website: a meditation and breath therapy practitioner. 
+This project delivers a clean, responsive, and animated multi-page site built with pure HTML, CSS, and JavaScript, incorporating AI-generated copy and free-licensed images from Freepik.
 
 ## Features
 
